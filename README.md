@@ -17,7 +17,6 @@
 | **فيديو شرح التطبيق والتثبيت (MP4)** | [**مشاهدة وتحميل فيديو الشرح tajnet_app_guide.mp4**](https://github.com/Mhmdbnhmzah/tajnet-download/raw/main/tajnet_app_guide.mp4) |
 | **صفحة التحميل السريعة** | [**https://tajnetapp.web.app/download.html**](https://tajnetapp.web.app/download.html) |
 | **سياسة الخصوصية الرسمية** | [**https://tajnetapp.web.app/privacy.html**](https://tajnetapp.web.app/privacy.html) |
-| **طلب حذف الحساب** | [**https://tajnetapp.web.app/delete-account.html**](https://tajnetapp.web.app/delete-account.html) |
 
 </div>
 
